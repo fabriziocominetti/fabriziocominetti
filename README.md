@@ -1,9 +1,10 @@
 # Fabrizio Cominetti
 - 👋 Hi, I’m @fabriziocominetti
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in and I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: fabriziocominetti1@gmail.com
+
+<h2 align="center">My Portfolio Website:</h2>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h2 align="center">Connect with me:</h2>

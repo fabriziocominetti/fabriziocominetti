@@ -38,7 +38,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
   
 ## GitHub Stats
-[![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=fabriziocominetti&count_private=true&show_icons=true&hide_rank=false&title_color=500000&icon_color=500000&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=fabriziocominetti&count_private=true&show_icons=true&hide_rank=false&title_color=500000&icon_color=500000&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziocominetti&title_color=500000)](https://github.com/anuraghazra/github-readme-stats)
 

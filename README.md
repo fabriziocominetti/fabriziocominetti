@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriziocominetti" height="40" width="50" /></a>
 <a href="https://kaggle.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fabriziocominetti" height="40" width="50" /></a>
 <a href="https://medium.com/@fabriziocominetti" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@fabriziocominetti" height="50" width="50" /></a>
-<a href="https://hackerrank.com/fabriziocomi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@fabriziocominetti" height="60" width="60" /></a>
+<a href="https://hackerrank.com/fabriziocomi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@fabriziocominetti" height="50" width="50" /></a>
 <!-- <a href="https://twitter.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="-" height="30" width="40" /></a> -->
 </div>
 

@@ -1,51 +1,52 @@
-# Fabrizio Cominetti
+<h1 align="center"> Hi Everyone! Welcome to <i><b>Fabrizio Cominetti</b></i>'s GitHub Profile</h1>
 
-- 👋 Hi, I’m @fabriziocominetti
-- 👀 I’m interested in and I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: fabriziocominetti1@gmail.com
-
-<h2 align="center">My Portfolio Website</h2>
+<h3 align="center">My Portfolio Website</h3>
 <div align="center">
-<a href="https://www.fabriziocominetti.glitch.me" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/3616/3616792.png" alt="fabriziocominetti" height="45" width="55" /></a>
+<a href="https://www.fabriziocominetti.glitch.me" target="blank"><img align="center" src="https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png" alt="fabriziocominetti" height="60" width="60" /></a>
 </div>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h2 align="center">Connect with me</h2>
+<h3 align="center">Connect with me</h3>
 <div align="center">
 <a href="https://github.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fabriziocominetti" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriziocominetti" height="40" width="50" /></a>
 <a href="https://kaggle.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fabriziocominetti" height="40" width="50" /></a>
-<a href="https://medium.com/@fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fabriziocominetti" height="40" width="50" /></a>
-  <a href="https://hackerrank.com/fabriziocomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@fabriziocominetti" height="40" width="50" /></a>
+<a href="https://medium.com/@fabriziocominetti" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@fabriziocominetti" height="50" width="50" /></a>
+<a href="https://hackerrank.com/fabriziocomi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@fabriziocominetti" height="60" width="60" /></a>
 <!-- <a href="https://twitter.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="-" height="30" width="40" /></a> -->
 </div>
 
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h2 align="center">My Skill Set</h2>
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/
+<h3 align="center">My Skill Set</h3>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+-->
 
----
-<!-- https://profilinator.rishav.dev/ --> 
+<!-- https://profilinator.rishav.dev/ 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
-  
-## GitHub Stats
+</div>
+-->
+
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
 <!-- [![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=fabriziocominetti&count_private=true&show_icons=true&hide_rank=false&title_color=500000&icon_color=500000&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziocominetti&title_color=500000)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-## Recent Articles
+<h3 align="center">Recent Articles</h3>
+<div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/2" alt="Recent Article 2">
+</div>
   
 <!---
 fabriziocominetti/fabriziocominetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

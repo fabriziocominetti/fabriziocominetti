@@ -41,7 +41,7 @@
 <div align="center">
 <!-- [![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=fabriziocominetti&count_private=true&show_icons=true&hide_rank=false&title_color=500000&icon_color=500000&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziocominetti&title_color=500000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziocominetti&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
 
 <h3 align="center">Recent Articles</h3>

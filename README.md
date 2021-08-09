@@ -6,7 +6,7 @@
 
 <h3 align="center">My Portfolio Website</h3>
 <div align="center">
-<a href="https://www.fabriziocominetti.glitch.me" target="blank"><img align="center" src="https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png" alt="fabriziocominetti" height="40" width="40" /></a>
+<a href="https://www.fabriziocominetti.github.io" target="blank"><img align="center" src="https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png" alt="fabriziocominetti" height="40" width="40" /></a>
 </div>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->

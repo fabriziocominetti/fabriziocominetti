@@ -3,6 +3,7 @@
 - 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
 - ⚙️ I use daily: `.py`
 - 💻 Data Science and Tech entusiast
+- ✒️ Read my articles on Medium!
 
 <h3 align="center">My Portfolio Website</h3>
 <div align="center">

@@ -1,11 +1,12 @@
 <h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Fabrizio Cominetti</b></i>'s GitHub Profile</h2>
 
-- 🏢 I'm currently studying Data Science at **University of Milan-Bicocca**
+- 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
 - ⚙️ I use daily: `.py`
+- 💻 Data Science and Tech entusiast
 
 <h3 align="center">My Portfolio Website</h3>
 <div align="center">
-<a href="https://www.fabriziocominetti.glitch.me" target="blank"><img align="center" src="https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png" alt="fabriziocominetti" height="50" width="50" /></a>
+<a href="https://www.fabriziocominetti.glitch.me" target="blank"><img align="center" src="https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png" alt="fabriziocominetti" height="40" width="40" /></a>
 </div>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
@@ -50,7 +51,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/2" alt="Recent Article 2">
 </div>
-  
+
 <!---
 fabriziocominetti/fabriziocominetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

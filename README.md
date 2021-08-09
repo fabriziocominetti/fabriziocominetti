@@ -1,8 +1,7 @@
 <h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Fabrizio Cominetti</b></i>'s GitHub Profile</h2>
 
 - 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
-- ⚙️ I use daily: `.py`
-- 💻 Data Science and Tech entusiast
+- 💻 I use daily: `.py`, SQL, Linux
 - ✒️ Read my articles on Medium!
 
 <h3 align="center">My Portfolio Website</h3>

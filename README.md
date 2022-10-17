@@ -1,6 +1,7 @@
 <h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Fabrizio Cominetti</b></i>'s GitHub Profile</h2>
 
 - 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
+- 📌 I'm currently working as a Digital Editor Intern at **AC Milan**
 <!--
 - 💻 I use daily: `.py`, `.ipynb`, `.sql`, `.R`, `.rmd`
 - ✒️ Read my articles on Medium!
@@ -16,8 +17,9 @@
 <div align="center">
 <a href="https://github.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fabriziocominetti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriziocominetti" height="30" width="40" /></a>
+<a href="https://twitter.com/fcomi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fcomi99" height="30" width="40" /></a>
 <a href="https://kaggle.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fabriziocominetti" height="30" width="40" /></a>
-<a href="https://medium.com/@fabriziocominetti" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@fabriziocominetti" height="40" width="40" /></a>
+<!-- <a href="https://medium.com/@fabriziocominetti" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@fabriziocominetti" height="40" width="40" /></a> -->
 </div>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/

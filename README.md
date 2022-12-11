@@ -1,7 +1,7 @@
 <h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Fabrizio Cominetti</b></i>'s GitHub Profile</h2>
 
 - 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
-- 📌 Digital Editor Intern at **AC Milan**
+- 📌 Digital Editor at **AC Milan**
 <!--
 - 💻 I use daily: `.py`, `.ipynb`, `.sql`, `.R`, `.rmd`
 - ✒️ Read my articles on Medium!

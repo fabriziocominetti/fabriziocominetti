@@ -13,13 +13,11 @@
 </div>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h3 align="center">Connect W/ Me</h3>
+<h3 align="center">Connect w/ Me</h3>
 <div align="center">
 <a href="https://github.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fabriziocominetti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriziocominetti" height="30" width="40" /></a>
 <a href="https://kaggle.com/fabriziocominetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fabriziocominetti" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/fcomi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fcomi99" height="30" width="40" /></a>
--->
 <!-- <a href="https://medium.com/@fabriziocominetti" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@fabriziocominetti" height="40" width="40" /></a> -->
 </div>
 
@@ -46,16 +44,7 @@
 <!-- [![Fabrizio's github stats](https://github-readme-stats.vercel.app/api?username=fabriziocominetti&count_private=true&show_icons=true&hide_rank=false&title_color=500000&icon_color=500000&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziocominetti&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div> 
-
-<!--
-<h3 align="center">Recent Articles</h3>
-<div align="center">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fabriziocominetti/2" alt="Recent Article 2">
 </div>
--->
 
 <!---
 fabriziocominetti/fabriziocominetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

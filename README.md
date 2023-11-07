@@ -16,7 +16,5 @@ print("linkedin.com/in/fabriziocominetti")
 ```
 
 <div align="center">
-<a href="https://fabriziocominetti.github.io"> Website </a>
-|
-<a href="https://linkedin.com/in/fabriziocominetti"> LinkedIn </a>
+<a href="https://fabriziocominetti.github.io">Website</a> | <a href="https://linkedin.com/in/fabriziocominetti">LinkedIn</a>
 </div>

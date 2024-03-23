@@ -6,9 +6,9 @@
 SELECT * FROM about_me
 ```
 
-📌 Data Science student at _University of Milan-Bicocca_
+📌 Master's Degree Graduate in 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 from the _University of Milano-Bicocca_
 </br >
-📌 Digital Editor at _AC Milan_
+📌 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙀𝙙𝙞𝙩𝙤𝙧 at _AC Milan_
 
 ```python
 print("fabriziocominetti.github.io")

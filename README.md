@@ -8,7 +8,7 @@ SELECT * FROM about_me
 
 📌 Master's Degree Graduate in 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 from the _University of Milano-Bicocca_
 </br >
-📌 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙀𝙙𝙞𝙩𝙤𝙧 at _AC Milan_
+📌 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝑴𝒆𝒅𝒊𝒂 𝙀𝙙𝙞𝙩𝙤𝙧 at _AC Milan_
 
 ```python
 print("fabriziocominetti.github.io")

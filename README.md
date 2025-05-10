@@ -1,2 +1,1 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=200&size=10&duration=1500&pause=500&color=C0C0C0&vCenter=true&multiline=true&lines=%3E%3E%3E+from+me+import+welcome_message;%3E%3E%3E+print(welcome_message);Hi+there!+Welcome+to+my+data+world!"/>
